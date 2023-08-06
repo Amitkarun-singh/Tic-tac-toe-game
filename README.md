@@ -44,7 +44,7 @@ Please note that all contributions are subject to review, and maintainers will h
 
 ## Issues
 
-If you encounter any issues while playing the game or have any suggestions for improvements, please [open an issue](https://github.com/Amitkarun-singh/tic-tac-toe-new-game/issues) on GitHub. We value your feedback and want to make the game even better!
+If you encounter any issues while playing the game or have any suggestions for improvements, please [open an issue](https://github.com/Amitkarun-singh/tic-tac-toe-game/issues) on GitHub. We value your feedback and want to make the game even better!
 
 ## License
 
